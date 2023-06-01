@@ -63,7 +63,7 @@ This project is licensed under the [MIT License](https://github.com/Abhishekagra
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, you can reach out to the project maintainer, Abhishek Agrawal, at [abhishek@example.com](mailto:abhishek@example.com).
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer, Abhishek Agrawal, at [abhishek@oranet.co.in](mailto:abhishek@oranet.co.in).
 
 Feel free to visit the [GitHub repository](
 
